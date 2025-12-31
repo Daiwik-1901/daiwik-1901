@@ -23,8 +23,13 @@
   </a>
    </a>
   <a href=https://www.codechef.com/users/saxenadaiwik>
-    <img width="22" src="<a href=https://www.codechef.com/users/saxenadaiwik>
     <img width="22" src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000" />
+  </a>
+   <a href=https://codeforces.com/profile/Daiwik_Saxena>
+    <img width="22" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" />
+  </a>
+   <a href=https://leetcode.com/u/saxenadaiwik>
+    <img width="22" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" />
   </a>
 </p>
 
