@@ -23,7 +23,8 @@
   </a>
    </a>
   <a href=https://www.codechef.com/users/saxenadaiwik>
-    <img width="22" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=000000" />
+    <img width="22" src="<a href=https://www.codechef.com/users/saxenadaiwik>
+    <img width="22" src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000" />
   </a>
 </p>
 
