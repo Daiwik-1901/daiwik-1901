@@ -21,6 +21,10 @@
   <a href="https://x.com/DaiwikSaxena19">
     <img width="22" src="https://github.com/user-attachments/assets/b14b1c57-a0b3-4a71-9df9-d4f9b556b6c7" />
   </a>
+   </a>
+  <a href=https://www.codechef.com/users/saxenadaiwik>
+    <img width="22" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=000000" />
+  </a>
 </p>
 
 ---
