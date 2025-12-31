@@ -50,7 +50,14 @@ I enjoy building **scalable applications, crafting seamless UI/UX, and exploring
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django)
 
 ### **Programming Languages**
-![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000))
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
+![html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+![JS](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![MySql](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)
+![JS](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
